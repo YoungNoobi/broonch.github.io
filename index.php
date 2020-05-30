@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-scrapbook-source="http://prodazhatovara.com/page/248ecc6f8638cdf9b7032a215de24e7cc9ffc44a?preview" data-scrapbook-create="20200530111411866">
+<html lang="RU">
 <head>
 <script src="jquery.2.1.3.min.js"></script><style type="text/css">* {}</style>	<meta charset="UTF-8">
 	<meta name="viewport" content="width=420">
@@ -13,8 +13,6 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Кинезиологическая Тейп-лента">
-<meta property="og:description" content="Кинезиологическая лента — эластичная адгезивная лента из хлопка на клейкой основе, используемая в спортивной медицине и реабилитации. Применять тейп-ленту можно не только при спортивных и производственных травмах, но и при артрите, остеохондрозе, артрозе и послеоперационных опухолях. Лента не только уменьшает болевые ощущения и отечность на поврежденном участке, но и принимает на себя часть нагрузки, оказываемой на поврежденную мышцу или сустав.">
-<meta property="og:url" content="https://prodazhatovara.com/page/248ecc6f8638cdf9b7032a215de24e7cc9ffc44a">
 </head>
 <body>
 	
@@ -277,10 +275,7 @@
 			    <a href="http://prodazhatovara.com/agreement/?l=248ecc6f8638cdf9b7032a215de24e7cc9ffc44a">Пользовательское соглашение</a>
 		</footer>
 		
-    <script type="text/javascript">
-        var phonePrefix = '+7';
-    </script>
-    <script type="text/javascript" src="phonePrefix.js"></script>
+
 
 		<script src="owl.carousel.min.js"></script>
 		<script src="main.js"></script>
