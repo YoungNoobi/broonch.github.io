@@ -30,7 +30,7 @@ if(!@$api_reqest || @$api_reqest->white_link || @$api_reqest->result == 0){
  }else{
     header( 'Location: https://yandex.ru', true, 301 );
  }
-
+?>
 <!DOCTYPE html>
 <html lang="RU">
 <head>
